@@ -5,11 +5,11 @@ RAI – Radiotelevisione Italiana (RAI) has collected audiovisual material (AV) 
 with the aim of making it available for experimentation within the project called "EBU AI-benchmarking". The
 name of this collection is "RAI Golden Clip". This material is
 hereafter referred to as "Content".
-These contents are and remain the property of RAI, but RAI grants Imagga the right to use the
+These contents are and remain the property of RAI, but RAI grants the right to use the
 Content for the aforementioned purposes (but without the possibility of sublicensing such
 rights).
 Therefore, these contents, nominally deposited in the form of files on a data storage server, are
-made available to Imagga by RAI, and are subject to the following terms and conditions, which
+made available to EBU AI-benchmarking contributors by RAI, and are subject to the following terms and conditions, which
 you hereby acknowledge to be bound by Italian law (and to accept the exclusive jurisdiction of
 the courts of the Municipality of Rome in case of legal proceedings regarding these terms and
 conditions):
